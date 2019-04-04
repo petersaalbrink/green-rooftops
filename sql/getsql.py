@@ -6,7 +6,7 @@ import pandas as pd
 
 config = {
     'user': 'trainee_peter',
-    'password': 'PeterMatrixian2019',
+    'password': 'peter01',
     'host': '104.199.69.152',
     'database': 'mx_traineeship_peter',
     'raise_on_warnings': True,
